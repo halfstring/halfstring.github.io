@@ -77,7 +77,7 @@ ga_domain: halfstring.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人这一生要做过多少对的事情，才幡然悔悟的做错事。"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-halfstring.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
