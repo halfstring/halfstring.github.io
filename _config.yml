@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: i@halfstring.com
 description: "大笑夺门而去时和青春撞了个满怀，归来时已非少年。"
 #subtitle: 人这一生要做过多少对的事情，才幡然悔悟的做错事。
-url: "https://halfstring.com"              # your host, for absolute URL
+url: "https://halfstring.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
