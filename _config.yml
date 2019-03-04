@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: halfstring.com
+ga_domain: halfstring.github.io
 
 
 
