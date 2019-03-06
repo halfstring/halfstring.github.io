@@ -6,7 +6,7 @@ updated: 2018-03-15 03:00
 
 [`文章来源`](https://blog.zhnytech.com/articles/2016/07/13/go%E8%AF%AD%E8%A8%80%E4%BC%98%E7%A7%80%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB.html#%E7%9B%AE%E5%BD%95)
 
-[[_TOC_]]
+[[TOC]]
 
 ## 监控系统
 
