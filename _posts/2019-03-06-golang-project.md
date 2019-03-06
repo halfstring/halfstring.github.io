@@ -4,9 +4,9 @@ date: 2019-03-06 03:00
 updated: 2018-03-15 03:00
 ---
 
-[`文章来源`](https://blog.zhnytech.com/articles/2016/07/13/go%E8%AF%AD%E8%A8%80%E4%BC%98%E7%A7%80%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB.html#%E7%9B%AE%E5%BD%95)
-
 [[TOC]]
+
+[`文章来源`](https://blog.zhnytech.com/articles/2016/07/13/go%E8%AF%AD%E8%A8%80%E4%BC%98%E7%A7%80%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB.html#%E7%9B%AE%E5%BD%95)
 
 ## 监控系统
 
@@ -265,9 +265,7 @@ updated: 2018-03-15 03:00
 
 ### [poseidon](https://github.com/Qihoo360/poseidon)
 
-> Poseidon 系统是一个日志搜索平台，可以在数百万亿条、数百PB大小的日志数据中快速分析和检索特定字符串。该系统可以应用于任何结构化或非结构化海量(从万亿到千万亿规模)数据的查询检索需求)。</td>
-</tr>
-</tbody></table>
+> Poseidon 系统是一个日志搜索平台，可以在数百万亿条、数百PB大小的日志数据中快速分析和检索特定字符串。该系统可以应用于任何结构化或非结构化海量(从万亿到千万亿规模)数据的查询检索需求)。
 
 ## 微服务 
 
@@ -1009,4 +1007,4 @@ updated: 2018-03-15 03:00
 
 > Hugo是由Go语言实现的静态网站生成器；简单、易用、高效、易扩展、快速部署；相比于Hexo、Jekyll，hugo的优势是生成速度极快。</td>
 
--- over --
+
