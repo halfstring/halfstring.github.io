@@ -143,9 +143,9 @@ vrrp_script chk_nginx {
 
 `check_nginx.sh`
 
-```
+``` shell
 #!/bin/bash
-A=`ps -C nginx --no-header |wc -l`
+A=\`ps -C nginx --no-header |wc -l\`
 if [ $A -eq 0 ];then
   /etc/init.d/nginx start
   sleep 3
