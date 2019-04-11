@@ -129,3 +129,30 @@ vrrp_instance VI_1 {
     inet6 fe80::a00:27ff:fe5e:f533/64 scope link
        valid_lft forever preferred_lft forever
 ```
+
+## 添加nginx检测
+
+- vim /etc/keepalived/keepalived.conf
+
+```
+vrrp_script chk_nginx {
+ script "/etc/keepalived/check_nginx.sh" # 判断nginx状态
+ interval 2
+ weight 2
+}
+
+`check_nginx.sh`
+
+```
+#!/bin/bash
+A=`ps -C nginx --no-header |wc -l`
+if [ $A -eq 0 ];then
+  /etc/init.d/nginx start
+  sleep 3
+  if [ `ps -C nginx --no-header |wc -l` -eq 0 ];then
+    /etc/init.d/keepalived stop
+  fi
+fi
+```
+
+检查nginx是否还在，如果不在了重启拉起，拉起失败stop keepalived
