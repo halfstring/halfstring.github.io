@@ -110,3 +110,22 @@ vrrp_instance VI_1 {
 
 ## 启动 keepalived，nginx
 
+```
+[root@ka2 keepalived]# ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
+    link/ether 08:00:27:20:20:f4 brd ff:ff:ff:ff:ff:ff
+    inet 10.0.2.15/24 brd 10.0.2.255 scope global eth0
+    inet6 fe80::a00:27ff:fe20:20f4/64 scope link
+       valid_lft forever preferred_lft forever
+3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
+    link/ether 08:00:27:5e:f5:33 brd ff:ff:ff:ff:ff:ff
+    inet 11.11.1.82/24 brd 11.11.1.255 scope global eth1
+    `inet 11.11.1.8/32 scope global eth1`
+    inet6 fe80::a00:27ff:fe5e:f533/64 scope link
+       valid_lft forever preferred_lft forever
+```
