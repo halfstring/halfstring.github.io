@@ -140,6 +140,7 @@ vrrp_script chk_nginx {
  interval 2
  weight 2
 }
+```
 
 `check_nginx.sh`
 
