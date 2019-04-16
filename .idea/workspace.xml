@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f66c8eb-7b84-4420-bdc5-6b3e409349af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" afterPath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/author/casper/index.html" afterPath="$PROJECT_DIR$/_site/author/casper/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/author/casper/page2/index.html" afterPath="$PROJECT_DIR$/_site/author/casper/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" afterPath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gettysburg-address.html" afterPath="$PROJECT_DIR$/_site/gettysburg-address.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/i-have-a-dream.html" afterPath="$PROJECT_DIR$/_site/i-have-a-dream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/looking-glass-house.html" afterPath="$PROJECT_DIR$/_site/looking-glass-house.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/out-to-sea.html" afterPath="$PROJECT_DIR$/_site/out-to-sea.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/content/index.html" afterPath="$PROJECT_DIR$/_site/tag/content/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/fables/index.html" afterPath="$PROJECT_DIR$/_site/tag/fables/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/fiction/index.html" afterPath="$PROJECT_DIR$/_site/tag/fiction/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/fiction/page2/index.html" afterPath="$PROJECT_DIR$/_site/tag/fiction/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/speeches/index.html" afterPath="$PROJECT_DIR$/_site/tag/speeches/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/test/index.html" afterPath="$PROJECT_DIR$/_site/tag/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" afterPath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-purpose-of-education.html" afterPath="$PROJECT_DIR$/_site/the-purpose-of-education.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,11 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>huangxuan.me</find>
-      <find>究竟拿了时间换了什么</find>
-      <find>究竟拿了时间换了</find>
-      <find>究竟拿了时间换</find>
-      <find>究竟拿了时间</find>
       <find>究竟拿了时</find>
       <find>究竟拿了</find>
       <find>究竟拿</find>
@@ -80,6 +55,11 @@
       <find>&quot;/jasper/assets</find>
       <find>jasper/assets</find>
       <find>/jasper/assets</find>
+      <find>/assets</find>
+      <find>/assets/images/cover1.jpg</find>
+      <find>assets/js/jquery.fitvids.js？</find>
+      <find>assets/js/jquery.fitvids.js?</find>
+      <find>assets/js/jquery.fitvids.js</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -263,16 +243,15 @@
       <workItem from="1551661291714" duration="611000" />
       <workItem from="1551663950496" duration="14000" />
       <workItem from="1551664054070" duration="592000" />
-      <workItem from="1555382226392" duration="481000" />
+      <workItem from="1555382226392" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2932000" />
+    <option name="totallyTimeSpent" value="3274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
