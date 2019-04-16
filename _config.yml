@@ -1,108 +1,24 @@
-# Jykell configuration
-#markdown: redcarpet
-#highlighter: pygments
-markdown: kramdown
-highlighter: rouge
-paginate: 5
-language: 'en-uk'
+name: "rusty shutter"
+permalink: /:year/:month/:day/:title.html
 
-# Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+author: "wayne"
+atom-baseurl: "http://halfstring.github.io"
+disqus: "gopherwood"
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
-
-# Authors' info
-authors:
-  casper:
-    username: casper
-    name: Casper McFadden
-    location: Maine, USA
-    url_full: http://biomadeira.github.io/jasper/
-    url: biomadeira.github.io/jasper
-    bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
-    assets: assets/images/casper.png
-  lewis:
-    username: lewis
-    name: Lewis Carroll
-    location: Cheshire, England
-    url_full: http://biomadeira.github.io/jasper/
-    url: biomadeira.github.io/jasper
-    bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-    assets: assets/images/lewis.jpeg
-  abraham:
-    username: abraham
-    name: Abraham Lincoln
-    location: Kentucky, USA
-    url_full: http://biomadeira.github.io/jasper/
-    url: biomadeira.github.io/jasper
-    bio: I was the 16th president of the USA until I was assassinated in April of 1963. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-    assets: assets/images/abraham.jpg
-  edgar:
-    username: edgar
-    name: Edgar Rice Burroughs
-    location: Chicago, Illinois
-    url_full: http://biomadeira.github.io/jasper/
-    url: biomadeira.github.io/jasper
-    bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-    assets: assets/images/edgar.gif
-  martin:
-    username: martin
-    name: Martin Luther King
-    location: Memphis, Tennessee
-    url_full: http://biomadeira.github.io/jasper/
-    url: biomadeira.github.io/jasper
-    bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-    assets: assets/images/martin.jpg
-
-# gems and other configs
-plugins: [jekyll-paginate]
-exclude: [vendor]
-
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
-
-
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: false
-lsi: false
-username: biomadeira
-repo: jasper
-branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:  https://github.com/biomadeira/jasper/
-
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml

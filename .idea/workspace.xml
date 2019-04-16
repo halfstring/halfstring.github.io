@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f66c8eb-7b84-4420-bdc5-6b3e409349af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" afterPath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" afterPath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/gettysburg-address.html" afterPath="$PROJECT_DIR$/_site/gettysburg-address.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/i-have-a-dream.html" afterPath="$PROJECT_DIR$/_site/i-have-a-dream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/looking-glass-house.html" afterPath="$PROJECT_DIR$/_site/looking-glass-house.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/out-to-sea.html" afterPath="$PROJECT_DIR$/_site/out-to-sea.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" afterPath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/the-purpose-of-education.html" afterPath="$PROJECT_DIR$/_site/the-purpose-of-education.html" />
-    </list>
+    <list default="true" id="8f66c8eb-7b84-4420-bdc5-6b3e409349af" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,8 +17,8 @@
       <file leaf-file-name="404.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="429">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -40,15 +28,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>究竟拿</find>
-      <find>究竟</find>
-      <find>究</find>
-      <find>background-image: url('/img/home-bg.jpg')</find>
-      <find>background-image:</find>
-      <find>background-image</find>
-      <find>col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1</find>
-      <find>subheading</find>
-      <find>subheading&quot;</find>
       <find>/img/avatar-hux-ny.jpg</find>
       <find>ha</find>
       <find>halfstring.git</find>
@@ -62,7 +41,6 @@
       <find>assets/</find>
       <find>&quot;/jasper/assets</find>
       <find>jasper/assets</find>
-      <find>/assets</find>
       <find>/assets/images/cover1.jpg</find>
       <find>assets/js/jquery.fitvids.js？</find>
       <find>assets/js/jquery.fitvids.js?</find>
@@ -70,6 +48,16 @@
       <find>a</find>
       <find>assets/css/screen.css</find>
       <find>/jasper/assets</find>
+      <find>/jasperassets</find>
+      <find>/jaspeassets</find>
+      <find>/jaspassets</find>
+      <find>/jasassets</find>
+      <find>/jaassets</find>
+      <find>/jassets</find>
+      <find>/assets</find>
+      <find>'assets</find>
+      <find>&quot;assets</find>
+      <find>assets</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -254,17 +242,17 @@
       <workItem from="1551661291714" duration="611000" />
       <workItem from="1551663950496" duration="14000" />
       <workItem from="1551664054070" duration="592000" />
-      <workItem from="1555382226392" duration="1218000" />
+      <workItem from="1555382226392" duration="1303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3669000" />
+    <option name="totallyTimeSpent" value="3754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Weex Documents" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -473,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="429">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding />
         </state>
       </provider>
