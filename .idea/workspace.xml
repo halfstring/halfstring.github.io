@@ -30,7 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>究竟拿了时</find>
       <find>究竟拿了</find>
       <find>究竟拿</find>
       <find>究竟</find>
@@ -60,6 +59,7 @@
       <find>assets/js/jquery.fitvids.js？</find>
       <find>assets/js/jquery.fitvids.js?</find>
       <find>assets/js/jquery.fitvids.js</find>
+      <find>assets/css/screen.css</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -243,12 +243,12 @@
       <workItem from="1551661291714" duration="611000" />
       <workItem from="1551663950496" duration="14000" />
       <workItem from="1551664054070" duration="592000" />
-      <workItem from="1555382226392" duration="823000" />
+      <workItem from="1555382226392" duration="880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3274000" />
+    <option name="totallyTimeSpent" value="3331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
