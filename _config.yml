@@ -1,4 +1,4 @@
-name: "rusty shutter"
+name: "halfstring"
 permalink: /:year/:month/:day/:title.html
 
 author: "wayne"
@@ -17,7 +17,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://foto.lhzhang.com
+    href: http://halfstring.github.io
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
